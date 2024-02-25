@@ -19,36 +19,6 @@ Yeni teknolojileri öğrenmek benim için bir tutku ve bu, her projede kendimi d
 📝 Ayrıca, [bayramalacam.com](https://bayramalacam.com) sitesinde blog yazarlığı yapıyorum! Teknoloji, yazılım geliştirme ve kariyer konularında yazılarımı bulabilirsiniz. Sizlere deneyimlerimden ve öğrendiklerimden bahsetmek benim için bir keyif!
 
 
-## Çalışma Geçmişim 💼
-
-### [Flutter İstanbul](https://flutter.istanbul) - Founder 🚀
-*Oca 2024 - Halen | Türkiye*
-- Flutter Istanbul, Türkiye'nin dört bir yanından gelen Flutter tutkunlarını bir araya getiren bir forum topluluğudur. 🌈
-
-### [MDP Group](https://mdpgroup.com/) - Senior Full Stack Developer 💻
-*Eyl 2020 - Halen | Kadıköy, İstanbul, Türkiye*
-- PostgreSQL, Flutter, Linux, DevOps, Git, MongoDB, NodeJS, ReactJS konularında deneyim. 🚀
-
-### [Webtropik](https://webtropik.com/) - Full Stack Developer 🌐
-*Haz 2018 - Mar 2022 | Kendi işim*
-- Flutter, Linux, Git, MongoDB, NodeJS, ReactJS konularında deneyim. 🚀
-
-### Walue Network - Blockchain Developer ⛓️
-*Oca 2020 - Eyl 2020 | İstanbul, Türkiye*
-- Flutter, Git, MongoDB, NodeJS, ReactJS konularında deneyim. 🚀
-
-### [Medepia IT consulting](https://medepia.com/) - Frontend & Backend Developer 💼
-*May 2019 - Eyl 2019 | Istanbul, Turkey*
-- Linux, Git, MongoDB, NodeJS, ReactJS konularında deneyim. 🚀
-
-### [BOTECH](https://bayi.botech.com.tr/) - Frontend & Backend Developer 🔒
-*Oca 2019 - Nis 2019 | Istanbul, Turkey*
-- Git, NodeJS konularında deneyim. 🚀
-
-### [SANLAB](https://sanlab.net/) - Frontend & Backend Web Developer 🖥️
-*Tem 2017 - Eyl 2017 | Istanbul, Turkey*
-- Staj döneminde müşteri yönetimi ve takibi konusunda crm çalışmaları. 🚀
-
 ## Sertifikalarım 🏆
 
 - IBM: Application Development using Microservices and Serverless
@@ -80,12 +50,7 @@ Yeni teknolojileri öğrenmek benim için bir tutku ve bu, her projede kendimi d
 
 [Android](www.bayramalacam.com/budget/android) | [iOS](www.bayramalacam.com/budget/ios)
 
-<img src="images/projects/butcem.jpg" width="300">
-
-
-
-
-
+<img src="images/projects/butcem.png" width="300">
 
 ### Waseat | Karbon Ayak İzi Hesapla 🌍
 *Şub 2022*
