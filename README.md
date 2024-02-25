@@ -48,7 +48,7 @@ Yeni teknolojileri öğrenmek benim için bir tutku ve bu, her projede kendimi d
 *Ara 2023 - Halen*
 - Kullanıcılara grafiklerle detaylı bir gelir-gider takibi sunar. 📊
 
-[Android](www.bayramalacam.com/budget/android) | [iOS](www.bayramalacam.com/budget/ios)
+[Android](https://butcem.bayramalacam.com/android) | [iOS](https://butcem.bayramalacam.com/ios)
 
 <img src="images/projects/butcem.png" width="300">
 
